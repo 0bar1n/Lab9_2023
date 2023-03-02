@@ -1,0 +1,10 @@
+D:\2 курс\4 семестр\дз\ооп\Lesson_Lab9\Lesson_Lab9\bin\Debug\Lesson_Lab9.exe.config
+D:\2 курс\4 семестр\дз\ооп\Lesson_Lab9\Lesson_Lab9\bin\Debug\Lesson_Lab9.exe
+D:\2 курс\4 семестр\дз\ооп\Lesson_Lab9\Lesson_Lab9\bin\Debug\Lesson_Lab9.pdb
+D:\2 курс\4 семестр\дз\ооп\Lesson_Lab9\Lesson_Lab9\obj\Debug\Lesson_Lab9.csproj.AssemblyReference.cache
+D:\2 курс\4 семестр\дз\ооп\Lesson_Lab9\Lesson_Lab9\obj\Debug\Lesson_Lab9.Lab9.resources
+D:\2 курс\4 семестр\дз\ооп\Lesson_Lab9\Lesson_Lab9\obj\Debug\Lesson_Lab9.Properties.Resources.resources
+D:\2 курс\4 семестр\дз\ооп\Lesson_Lab9\Lesson_Lab9\obj\Debug\Lesson_Lab9.csproj.GenerateResource.cache
+D:\2 курс\4 семестр\дз\ооп\Lesson_Lab9\Lesson_Lab9\obj\Debug\Lesson_Lab9.csproj.CoreCompileInputs.cache
+D:\2 курс\4 семестр\дз\ооп\Lesson_Lab9\Lesson_Lab9\obj\Debug\Lesson_Lab9.exe
+D:\2 курс\4 семестр\дз\ооп\Lesson_Lab9\Lesson_Lab9\obj\Debug\Lesson_Lab9.pdb
